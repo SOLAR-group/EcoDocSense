@@ -74,6 +74,10 @@ npm start
 ```
 Now EcoDoc Sense is ready on **http://localhost:3000/**
 
+### Discussion of Generation Phase Prompts
+Detailed discussions and analysis of our prompt templates can be found in `Generation Phase - Prompt Engineering.pdf` located in the project's root directory.
+
+
 
 
 
